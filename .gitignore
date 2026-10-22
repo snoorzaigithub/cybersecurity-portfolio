@@ -1,0 +1,6 @@
+.DS_Store
+*.pem
+private*
+key.bin
+key.bin.enc
+cipher.enc
